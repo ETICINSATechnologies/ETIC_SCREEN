@@ -1,0 +1,1426 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-26 10:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:12
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:20
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:22
+msgid "Error"
+msgstr ""
+
+#: 404.php:23
+msgid "404"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:68
+msgid "WordPress Theme : "
+msgstr ""
+
+#: footer.php:68
+msgid "Free WordPress Theme"
+msgstr ""
+
+#. URI of the theme
+#: footer.php:68
+msgid "https://8degreethemes.com/wordpress-themes/wp-corporate/"
+msgstr ""
+
+#. Name of the theme
+#: footer.php:68
+msgid "WP Corporate"
+msgstr ""
+
+#: footer.php:69
+msgid " by 8Degree Themes"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:127
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:129 functions.php:140 functions.php:151 functions.php:162
+#: functions.php:173 functions.php:184 functions.php:195
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:138 inc/wp-corporate-sanitize.php:46
+#: inc/admin-panel/wp-corporate-inner-panel.php:63
+#: inc/admin-panel/wp-corporate-inner-panel.php:164
+#: inc/admin-panel/wp-corporate-inner-panel.php:219
+#: inc/admin-panel/wp-corporate-inner-panel.php:276
+#: inc/admin-panel/wp-corporate-inner-panel.php:333
+#: inc/admin-panel/wp-corporate-inner-panel.php:436
+#: inc/admin-panel/wp-corporate-inner-panel.php:518
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:149 inc/wp-corporate-sanitize.php:45
+#: inc/admin-panel/wp-corporate-inner-panel.php:62
+#: inc/admin-panel/wp-corporate-inner-panel.php:163
+#: inc/admin-panel/wp-corporate-inner-panel.php:218
+#: inc/admin-panel/wp-corporate-inner-panel.php:275
+#: inc/admin-panel/wp-corporate-inner-panel.php:332
+#: inc/admin-panel/wp-corporate-inner-panel.php:435
+#: inc/admin-panel/wp-corporate-inner-panel.php:517
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:160
+msgid "Footer One"
+msgstr ""
+
+#: functions.php:171
+msgid "Footer Two"
+msgstr ""
+
+#: functions.php:182
+msgid "Footer Three"
+msgstr ""
+
+#: functions.php:193
+msgid "Footer Four"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:108
+msgid "Primary Menu"
+msgstr ""
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform-header.php:6 inc/admin-panel/wp-corporate-header-panel.php:273
+msgid "Search..."
+msgstr ""
+
+#: searchform-header.php:7 inc/admin-panel/wp-corporate-header-panel.php:293
+msgid "Search"
+msgstr ""
+
+#: searchform-header.php:15 searchform-header.php:16
+msgid "Search for:"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage"
+msgstr ""
+
+#: tpl-homepage.php:201 inc/admin-panel/wp-corporate-homepage-panel.php:774
+msgid "HTML"
+msgstr ""
+
+#: tpl-homepage.php:203 inc/admin-panel/wp-corporate-homepage-panel.php:818
+msgid "PHP"
+msgstr ""
+
+#: tpl-homepage.php:205
+msgid "WORDPRESS"
+msgstr ""
+
+#: inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post
+#. %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/wp-corporate-customizer.php:9
+msgid "Default and Basic Settings"
+msgstr ""
+
+#: inc/wp-corporate-customizer.php:10
+msgid "Manage General Setups for the site"
+msgstr ""
+
+#: inc/wp-corporate-customizer.php:25
+msgid "Web Layout Setting"
+msgstr ""
+
+#: inc/wp-corporate-customizer.php:43
+msgid "Website Layout"
+msgstr ""
+
+#: inc/wp-corporate-customizer.php:44
+msgid ""
+"Choose weblayout for your Site. This setting will be applied for your Whole "
+"site."
+msgstr ""
+
+#: inc/wp-corporate-customizer.php:47 inc/wp-corporate-sanitize.php:7
+msgid "Full Width"
+msgstr ""
+
+#: inc/wp-corporate-customizer.php:48 inc/wp-corporate-sanitize.php:8
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/wp-corporate-functions.php:14
+#: inc/admin-panel/wp-corporate-homepage-panel.php:150
+msgid "Select Category"
+msgstr ""
+
+#: inc/wp-corporate-functions.php:52
+#: inc/admin-panel/wp-corporate-header-panel.php:105
+msgid "Details"
+msgstr ""
+
+#. $id
+#. $id
+#: inc/wp-corporate-metabox.php:7 inc/wp-corporate-metabox.php:14
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/wp-corporate-metabox.php:25
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/wp-corporate-metabox.php:30
+msgid "Right sidebar<br/>(default)"
+msgstr ""
+
+#: inc/wp-corporate-metabox.php:35 inc/wp-corporate-sanitize.php:47
+#: inc/admin-panel/wp-corporate-inner-panel.php:64
+#: inc/admin-panel/wp-corporate-inner-panel.php:165
+#: inc/admin-panel/wp-corporate-inner-panel.php:220
+#: inc/admin-panel/wp-corporate-inner-panel.php:277
+#: inc/admin-panel/wp-corporate-inner-panel.php:334
+#: inc/admin-panel/wp-corporate-inner-panel.php:437
+#: inc/admin-panel/wp-corporate-inner-panel.php:519
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/wp-corporate-metabox.php:41
+msgid "No sidebar"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:19
+#: inc/admin-panel/wp-corporate-header-panel.php:218
+msgid "Fade"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:20
+#: inc/admin-panel/wp-corporate-header-panel.php:219
+msgid "Slide"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:31
+msgid "Logo and Menu at Left with ads"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:32
+msgid "Logo and Menu at Center"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:33
+msgid "Logo and Menu at Right with ads"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:48
+#: inc/admin-panel/wp-corporate-inner-panel.php:65
+#: inc/admin-panel/wp-corporate-inner-panel.php:166
+#: inc/admin-panel/wp-corporate-inner-panel.php:221
+#: inc/admin-panel/wp-corporate-inner-panel.php:278
+#: inc/admin-panel/wp-corporate-inner-panel.php:335
+#: inc/admin-panel/wp-corporate-inner-panel.php:438
+#: inc/admin-panel/wp-corporate-inner-panel.php:520
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:64
+#: inc/admin-panel/wp-corporate-inner-panel.php:87
+#: inc/admin-panel/wp-corporate-inner-panel.php:358
+msgid "Posts with Large Image"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:65
+#: inc/admin-panel/wp-corporate-inner-panel.php:88
+#: inc/admin-panel/wp-corporate-inner-panel.php:359
+msgid "Posts with Medium Image"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:66
+#: inc/admin-panel/wp-corporate-inner-panel.php:89
+#: inc/admin-panel/wp-corporate-inner-panel.php:360
+msgid "Post with Alternate Image"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:78
+#: inc/admin-panel/wp-corporate-inner-panel.php:461
+#: inc/admin-panel/wp-corporate-inner-panel.php:543
+msgid "List View"
+msgstr ""
+
+#: inc/wp-corporate-sanitize.php:79
+#: inc/admin-panel/wp-corporate-inner-panel.php:462
+#: inc/admin-panel/wp-corporate-inner-panel.php:544
+msgid "Grid View"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:19 template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-portfolio.php:15
+msgid "All"
+msgstr ""
+
+#: template-parts/content.php:48
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content.php:96 template-parts/content.php:131
+#: template-parts/content.php:181 template-parts/content.php:233
+msgid "Read More"
+msgstr ""
+
+#: welcome/step-demo.php:2
+msgid ""
+"Please install Recommended Plugins for demo to be imported completely.<br /> "
+"And Make sure you download demo in a fresh install. <br /> Your Old Data "
+"might be deleted."
+msgstr ""
+
+#: welcome/step-demo.php:13 welcome/step-demo.php:50
+#, php-format
+msgid "Install : %s Plugin"
+msgstr ""
+
+#: welcome/step-demo.php:14
+msgid ""
+"Please check the plugins folder inside theme and upload the zip of plugins "
+"from plugin uploader."
+msgstr ""
+
+#: welcome/step-demo.php:31
+msgid "Install and Activate"
+msgstr ""
+
+#: welcome/step-demo.php:37 welcome/step-second.php:36
+msgid "Deactivate"
+msgstr ""
+
+#: welcome/step-demo.php:43 welcome/step-second.php:32
+#: welcome/wp_corporate_about.php:14
+msgid "Activate"
+msgstr ""
+
+#: welcome/step-fifth.php:8
+msgid ""
+"AND IF THIS THEME HAS IMPRESSED YOU, THEN YOU WOULD ENJOY OUR OTHER PROJECTS "
+"TOO. DO CHECK THESE OUT :"
+msgstr ""
+
+#: welcome/step-fifth.php:10
+msgid "WPAll Club"
+msgstr ""
+
+#: welcome/step-fifth.php:10
+msgid ""
+"A complete WordPress resources club. WordPress tutorials, blogs, curated "
+"free and premium themes and plugins, WordPress deals, offers, hosting info "
+"and more."
+msgstr ""
+
+#: welcome/step-fifth.php:13
+msgid "Premium WordPress Themes"
+msgstr ""
+
+#: welcome/step-fifth.php:13
+msgid ""
+"6 premium WordPress themes well suited for all sort of websites. "
+"Professional, well coded and highly configurable themes for you."
+msgstr ""
+
+#: welcome/step-fifth.php:16
+msgid "Premium WordPress Plugins"
+msgstr ""
+
+#: welcome/step-fifth.php:16
+msgid ""
+"45+ premium WordPress plugins of many different types. High user ratings, "
+"great quality and best sellers in CodeCanyon marketplace."
+msgstr ""
+
+#: welcome/step-fifth.php:19
+msgid "AccessPress Themes"
+msgstr ""
+
+#: welcome/step-fifth.php:19
+msgid ""
+"AccessPress Themes has 50+ beautiful and elegant, fully responsive, "
+"multipurpose themes to meet your need for free and commercial basis."
+msgstr ""
+
+#. Author of the theme
+#: welcome/step-fifth.php:22
+msgid "8Degree Themes"
+msgstr ""
+
+#: welcome/step-fifth.php:22
+msgid ""
+"8Degree Themes offers 15+ free WordPress themes and 16+ premium WordPress "
+"themes  carefully crafted with creativity."
+msgstr ""
+
+#: welcome/step-first.php:10
+msgid "Step 1"
+msgstr ""
+
+#: welcome/step-first.php:11
+msgid "Follow below actions"
+msgstr ""
+
+#: welcome/step-first.php:12
+msgid ""
+"We've made a checklist for you to take while setting up with our theme. Go "
+"through this and you can have your website ready in minutes."
+msgstr ""
+
+#: welcome/step-first.php:13
+msgid "Create a post, post category, page."
+msgstr ""
+
+#: welcome/step-first.php:13 welcome/step-first.php:14
+msgid "Click here if you need help!"
+msgstr ""
+
+#: welcome/step-first.php:14
+msgid ""
+"Set page you created to load a custom template \"Homepage\" that came with "
+"theme and set it as frontpage."
+msgstr ""
+
+#: welcome/step-first.php:15
+msgid "Install required/recommerded plugins (if any)."
+msgstr ""
+
+#: welcome/step-first.php:16
+msgid "Click Me to install recommended plugins."
+msgstr ""
+
+#: welcome/step-first.php:21
+msgid "Step 2"
+msgstr ""
+
+#: welcome/step-first.php:22
+msgid "Import Demo Contents"
+msgstr ""
+
+#: welcome/step-first.php:23
+msgid ""
+"If you like to have a site as similar like our demo then, go to Import Demo "
+"tab and do the needfuls."
+msgstr ""
+
+#: welcome/step-first.php:24
+msgid "Click Me to import demo contents."
+msgstr ""
+
+#: welcome/step-first.php:29
+msgid "Step 3"
+msgstr ""
+
+#: welcome/step-first.php:30
+msgid "Check our documentation"
+msgstr ""
+
+#: welcome/step-first.php:31
+msgid ""
+"Even if you're a long-time WordPress user, we still believe you should give "
+"our documentation a very quick Read."
+msgstr ""
+
+#: welcome/step-first.php:33
+msgid "Full documentation"
+msgstr ""
+
+#: welcome/step-first.php:38
+msgid "Step 4"
+msgstr ""
+
+#: welcome/step-first.php:39
+msgid "Customize everything"
+msgstr ""
+
+#: welcome/step-first.php:40
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: welcome/step-first.php:42
+msgid "Go to Customizer"
+msgstr ""
+
+#: welcome/step-second.php:28 welcome/step-second.php:43
+msgid "Install"
+msgstr ""
+
+#: welcome/step-second.php:49
+msgid "Required"
+msgstr ""
+
+#: welcome/step-second.php:57
+msgid "Version:"
+msgstr ""
+
+#: welcome/step-third.php:5 welcome/step-third.php:9
+msgid "Contact Support"
+msgstr ""
+
+#: welcome/step-third.php:7
+msgid ""
+"We offer excellent support through our website support forum. Just Register "
+"and Post your query and you will be responded by one of our representatives. "
+"Or you can send email at "
+msgstr ""
+
+#: welcome/step-third.php:7
+msgid "support@8degreethemes.com"
+msgstr ""
+
+#: welcome/step-third.php:15
+msgid "Documentation"
+msgstr ""
+
+#: welcome/step-third.php:17
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentation is an incredible resource for learning the ins and outs "
+"of using our theme."
+msgstr ""
+
+#: welcome/step-third.php:20
+msgid "See our full documentation"
+msgstr ""
+
+#: welcome/step-third.php:26
+msgid "Video Tutorials"
+msgstr ""
+
+#: welcome/step-third.php:28
+msgid ""
+"Check our yoututbe video tutorials on setting up themes as well as general "
+"setups. Do not forget to Subscribe to get more videos notifications."
+msgstr ""
+
+#: welcome/step-third.php:31
+msgid "YoutTube Videos"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:15
+msgid "Activated"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:16
+msgid "Installing Demo"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:17
+msgid "Demo Installed"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:18
+msgid "Are you sure to import demo content ?"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:34
+msgid "Instant Demo Importer"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:40
+msgid ""
+"Instant Demo Importer Plugin adds the feature to Import the Demo Conent with "
+"a single click."
+msgstr ""
+
+#: welcome/wp_corporate_about.php:57 welcome/wp_corporate_about.php:59
+msgid "About WP Corporate"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:77
+msgid "Welcome to WP Corporate! - Version "
+msgstr ""
+
+#: welcome/wp_corporate_about.php:80
+msgid ""
+"WP Corporate is now installed and ready to use! Get ready to build something "
+"beautiful. We hope you enjoy it! We want to make sure you have the best "
+"experience using WP Corporate and that is why we gathered here all the "
+"necessary information for you. We hope you will enjoy using wp-corporate, as "
+"much as we enjoy creating great products."
+msgstr ""
+
+#: welcome/wp_corporate_about.php:84
+msgid "UPGRADE TO WP CORPORATE PRO"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:91
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:95
+msgid "Recommended Plugins"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:99
+msgid "Import Demo"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:103
+msgid "Support"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:107
+msgid "Changelog"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:111
+msgid "More WordPress Stuff"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:276
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing WP Corporate! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: welcome/wp_corporate_about.php:278
+msgid "Get started with WP Corporate"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:311
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: welcome/wp_corporate_about.php:319 welcome/wp_corporate_about.php:406
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: welcome/wp_corporate_about.php:399
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#: welcome/wp_corporate_about.php:428
+msgid "There was an error activating $api->name"
+msgstr ""
+
+#: welcome/wp_corporate_about.php:448
+msgid "WP Corporate Demo"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-footer-panel.php:8
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-footer-panel.php:9
+msgid "Setup settings for footer of your site."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-footer-panel.php:17
+msgid "Footer Social Link"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-footer-panel.php:18
+msgid "Setup Social Setting to show in Footer."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-footer-panel.php:38
+msgid "Enable Social Icons"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-footer-panel.php:48
+msgid "Stay Connected with us"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-footer-panel.php:58
+#: inc/admin-panel/wp-corporate-header-panel.php:383
+#: inc/admin-panel/wp-corporate-homepage-panel.php:308
+#: inc/admin-panel/wp-corporate-homepage-panel.php:367
+#: inc/admin-panel/wp-corporate-homepage-panel.php:428
+#: inc/admin-panel/wp-corporate-homepage-panel.php:487
+#: inc/admin-panel/wp-corporate-homepage-panel.php:546
+#: inc/admin-panel/wp-corporate-homepage-panel.php:605
+#: inc/admin-panel/wp-corporate-homepage-panel.php:785
+#: inc/admin-panel/wp-corporate-homepage-panel.php:829
+#: inc/admin-panel/wp-corporate-homepage-panel.php:873
+msgid "Enter Text"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-footer-panel.php:70
+msgid "Footer Copyright Area"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-footer-panel.php:87
+msgid "Footer Copyright Area Text"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-footer-panel.php:88
+msgid "Enter text or Html to show in the footer."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:9
+msgid "Header Settings"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:10
+msgid "Setup header of the site."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:18
+#: inc/admin-panel/wp-corporate-header-panel.php:39
+msgid "Reorder Header"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:41
+msgid "Drag and drop to reorder header items."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:44
+msgid "Slider"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:45
+msgid "Menu"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:56
+msgid "Slider Setting"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:58
+msgid "Setup the slider settings for header"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:77
+msgid "Select a category to show in slider"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:95
+msgid "Readmore button link"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:114
+msgid "Readmore button text"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:134
+msgid "Slider Caption"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:135
+msgid "Select Yes to show titles and description over Slider"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:155
+msgid "Slider Pager"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:175
+msgid "Slider Controls"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:195
+msgid "Auto Transition"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:215
+msgid "Transition Type(Slide/Fade)"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:236
+msgid "Autoplay Speed"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:245
+msgid "Header Search Setting"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:263
+msgid "Check to Show Search in Header"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:282
+msgid "Enter Search Placeholder"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:302
+msgid "Enter Search Button text"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:312
+msgid "Call-To"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:330
+msgid "Call To Content"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:331
+msgid "Enter text or HTML for call to us"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:341
+msgid "Header Social Link"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:343
+msgid "Setup Social Setting to show in Header."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:363
+msgid "Enable Social Icons in Header"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:373
+msgid "Stay Connected"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:394
+msgid "Logo Alignment"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:412
+msgid "Choose the layout that you want"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:416
+msgid "Left"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:417
+msgid "Center"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-header-panel.php:418
+msgid "Right"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:8
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:9
+msgid "Setup homepage of the site."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:17
+msgid "Slider Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:36
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:37
+msgid "Select Yes to show Slider on Homepage."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:48
+msgid "Featured Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:50
+msgid "Setup featured settings for homepage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:68
+msgid "Enable Featured Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:69
+msgid "Select Yes to show featured section on homepage."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:88
+msgid "Enable Featured Page"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:89
+msgid "Select Yes to show featured page on Featured Section."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:109
+msgid "Select Page"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:110
+msgid "Select page to show in featured Page in left side of Featured Section."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:129
+msgid "Enable Featured Post"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:130
+msgid "Select Yes to show featured post on Featured Section."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:151
+msgid ""
+"Select Featured Post category to show in right side of Featured Section. "
+"Three posts are shown in this area."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:163
+msgid "Counter Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:165
+msgid "Setup Counter settings for homepage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:183
+msgid "Enable Counter Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:184
+msgid "Select Yes to show counter section on homepage."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:205
+#: inc/admin-panel/wp-corporate-homepage-panel.php:678
+#: inc/admin-panel/wp-corporate-homepage-panel.php:927
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1041
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1174
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1286
+msgid "Section title"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:225
+#: inc/admin-panel/wp-corporate-homepage-panel.php:698
+#: inc/admin-panel/wp-corporate-homepage-panel.php:947
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1192
+msgid "Section Subtitle"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:245
+#: inc/admin-panel/wp-corporate-homepage-panel.php:718
+#: inc/admin-panel/wp-corporate-homepage-panel.php:967
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1061
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1212
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1306
+msgid "Section Description"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:267
+#: inc/admin-panel/wp-corporate-homepage-panel.php:740
+msgid "Upload Image"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:288
+msgid "Counter One"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:289
+#: inc/admin-panel/wp-corporate-homepage-panel.php:348
+#: inc/admin-panel/wp-corporate-homepage-panel.php:409
+#: inc/admin-panel/wp-corporate-homepage-panel.php:468
+#: inc/admin-panel/wp-corporate-homepage-panel.php:527
+#: inc/admin-panel/wp-corporate-homepage-panel.php:586
+#: inc/admin-panel/wp-corporate-homepage-panel.php:761
+#: inc/admin-panel/wp-corporate-homepage-panel.php:805
+#: inc/admin-panel/wp-corporate-homepage-panel.php:849
+msgid "Enter Number"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:327
+#: inc/admin-panel/wp-corporate-homepage-panel.php:386
+#: inc/admin-panel/wp-corporate-homepage-panel.php:447
+#: inc/admin-panel/wp-corporate-homepage-panel.php:506
+#: inc/admin-panel/wp-corporate-homepage-panel.php:565
+#: inc/admin-panel/wp-corporate-homepage-panel.php:624
+msgid "Enter Icon"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:347
+msgid "Counter Two"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:408
+msgid "Counter Three"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:467
+msgid "Counter Four"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:526
+msgid "Counter Five"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:585
+msgid "Counter Six"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:636
+msgid "Skill Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:638
+msgid "Setup Skill settings for homepage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:656
+msgid "Enable Skill Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:657
+msgid "Select Yes to show skill section on homepage."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:687
+#: inc/admin-panel/wp-corporate-homepage-panel.php:936
+msgid "Completion of Projects"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:760
+msgid "Skill One"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:804
+msgid "Skill Two"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:848
+msgid "Skill Three"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:862
+msgid "Wordpress"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:885
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:887
+msgid "Setup Testimonial settings for homepage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:905
+msgid "Enable Testimonial Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:906
+msgid "Select Yes to show Testimonial section on homepage."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:986
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1080
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1232
+msgid "Select category"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:987
+msgid "Select category to show in Testimonial Section."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:999
+msgid "Client Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1001
+msgid "Setup Client settings for homepage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1019
+msgid "Enable Client Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1020
+msgid "Select Yes to show client section on homepage."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1081
+msgid "Select category to show in Client Section."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1102
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1326
+msgid "Section Button Text"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1122
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1346
+msgid "Section Button Link"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1132
+msgid "Blog Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1134
+msgid "Setup Blog settings for homepage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1152
+msgid "Enable Blog Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1153
+msgid "Select Yes to show blog section on homepage."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1233
+msgid "Select category to show in Blog Section."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1244
+msgid "Call to Action Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1246
+msgid "Setup Call To Action settings for homepage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1264
+msgid "Enable Call To Action Section"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1265
+msgid "Select Yes to show cta section on homepage."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-homepage-panel.php:1315
+msgid "Join Today"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:8
+msgid "Innerpage Settings"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:9
+msgid "Setup innerpage of the site."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:17
+msgid "Blog Page Setting"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:38
+#: inc/admin-panel/wp-corporate-inner-panel.php:119
+#: inc/admin-panel/wp-corporate-inner-panel.php:195
+#: inc/admin-panel/wp-corporate-inner-panel.php:250
+#: inc/admin-panel/wp-corporate-inner-panel.php:307
+#: inc/admin-panel/wp-corporate-inner-panel.php:389
+#: inc/admin-panel/wp-corporate-inner-panel.php:491
+msgid "Enable Header Slider"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:39
+msgid "Show Header Slider on Blog Page."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:58
+#: inc/admin-panel/wp-corporate-inner-panel.php:159
+msgid "Page Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:59
+msgid "Choose layout for Blog page"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:83
+#: inc/admin-panel/wp-corporate-inner-panel.php:354
+#: inc/admin-panel/wp-corporate-inner-panel.php:457
+#: inc/admin-panel/wp-corporate-inner-panel.php:539
+msgid "Post Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:84
+msgid "Choose Blog Post Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:98
+msgid "Portfolio Page Setting"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:120
+msgid "Show Header Slider on Portfolio Page."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:140
+#: inc/admin-panel/wp-corporate-inner-panel.php:411
+msgid "Select category."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:141
+msgid "Select category to show posts in Portfolio Page Layout."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:160
+msgid "Choose layout for Portfolio page"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:175
+msgid "Single Page Settings"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:196
+msgid "Show Header Slider on Single Page."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:214
+msgid "Single Page Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:215
+msgid "Choose layout for single page landing webpage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:230
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:251
+msgid "Show Header Slider on Single Post."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:271
+msgid "Single Post Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:272
+msgid "Choose layout for single post landing webpage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:287
+msgid "Archive Pages Settings"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:308
+msgid "Show Header Slider on Archive Page."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:328
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:329
+msgid "Choose layout for archive pages landing webpage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:355
+msgid "Choose Archive Post Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:369
+msgid "Team Page Settings"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:390
+msgid "Show Header Slider on Team Page."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:412
+msgid "Select category to show posts in Team Page Layout."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:431
+msgid "Team Page Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:432
+msgid "Choose layout for team pages landing webpage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:458
+msgid "Choose Team Post Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:471
+msgid "Testimonial Page Settings"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:492
+msgid "Show Header Slider on Testimonial Page."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:513
+msgid "Testimonial Page Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:514
+msgid "Choose layout for testimonial pages landing webpage"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-inner-panel.php:540
+msgid "Choose Testimonial Post Layout"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:8
+msgid "Social Link Setup"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:9
+msgid "Add your link of the respective site."
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:26
+msgid "Facebook"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:45
+msgid "Twitter"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:64
+msgid "Google Plus"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:83
+msgid "YouTube"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:102
+msgid "Pinterest"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:121
+msgid "Linkedin"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:141
+msgid "Vimeo"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:160
+msgid "Instagram"
+msgstr ""
+
+#: inc/admin-panel/wp-corporate-social-panel.php:179
+msgid "Skype"
+msgstr ""
+
+#: inc/controls/custom-switch.php:12
+msgid "Yes"
+msgstr ""
+
+#: inc/controls/custom-switch.php:13
+msgid "No"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"WP Corporate is clean &amp; modern WordPress Corporate Theme. It is ideal "
+"for business, corporates, blog or personal website. It is a cutting-edge, "
+"feature-rich FREE WordPress Theme and is fully responsive. Its feature "
+"includes: Slider in all pages, Highly Configurable Homepage,Reorder Header "
+"with menu and top bar, 3 Menu Layouts, Portfolio,Blog,Team,Testimonial,"
+"Archive page custom designs. Social Link . Demo: https://8degreethemes."
+"com/demo/wp-corporate/ Support forum: support@8degreethemes.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://8degreethemes.com/"
+msgstr ""

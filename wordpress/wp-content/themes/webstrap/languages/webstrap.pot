@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Webstrap\n"
+"POT-Creation-Date: 2019-03-12 18:39+0530\n"
+"PO-Revision-Date: 2019-03-12 18:39+0530\n"
+"Last-Translator: \n"
+"Language-Team: Specia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\research\\wp-content\\themes"
+"\\webstrap\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\research\\wp-content\\themes"
+"\\webstrap\n"
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:12
+msgid "Features Section"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:21
+msgid "Settings"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:29
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:33
+msgid "on"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:38
+msgid "Hide / Show Section"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:44
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:48
+msgid "Show"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:45
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:49
+msgid "Hide"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:55
+msgid "Header"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:73
+msgid "Section Title"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:93
+msgid "Section Description"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:105
+msgid "Background"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:122
+msgid "Background Image"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:140
+msgid "Image Position"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:146
+msgid "Fixed"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-features.php:147
+msgid "Scroll"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:12
+msgid "Header Section"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:24
+msgid "Header Cart & Button"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:42
+msgid "Hide/ Show Header Cart"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:66
+msgid "Button Icon"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:70
+msgid ""
+"Want to get more icons <a href='https://fontawesome.com/v4.7.0/icons/' "
+"target='_blank'>Click Here</a>"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:77
+msgid "Book Now"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:86
+msgid "Button Label"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/specia-header-section.php:105
+msgid "Button URL"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/webstrap-premium.php:7
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/webstrap-premium.php:23
+msgid "Premium Demo"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/webstrap-premium.php:25
+msgid "View Details"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/webstrap-premium.php:27
+msgid "Buy Now"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/webstrap-premium.php:29
+msgid "Our Themes"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/inc/customize/webstrap-premium.php:31
+msgid "Support Center"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/sections/specia-breadcrumb.php:10
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/sections/specia-breadcrumb.php:14
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/sections/specia-breadcrumb.php:18
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/sections/specia-breadcrumb.php:22
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/sections/specia-breadcrumb.php:26
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/sections/specia-breadcrumb.php:30
+msgid "Error 404"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/sections/specia-breadcrumb.php:34
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: D:\xampp\htdocs\research\wp-content\themes\webstrap/sections/specia-navigation.php:9
+msgid "Toggle navigation"
+msgstr ""

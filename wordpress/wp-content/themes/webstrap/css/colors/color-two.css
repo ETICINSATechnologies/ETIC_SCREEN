@@ -1,0 +1,426 @@
+﻿/*=========================================
+    Primary Color
+=========================================*/
+/* Header CSS */
+.header-top-info-8 .social li a i:hover {
+    background: #395ca3 ;
+}
+
+/* Menu CSS */
+.navbar-brand::first-letter {
+	color: #395ca3  !important;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+    background: #395ca3  !important;
+}
+
+/* Slider CSS */
+.slider-version-one .caption h1 span, .slider-version-one .caption h1 span h4{
+    color: #395ca3 ;
+}
+.specia-btn-1:hover{
+    background: #395ca3 ;
+	border-color: #395ca3 ;
+}
+.owl-theme .owl-controls .owl-nav [class*=owl-]:hover {
+    background: #395ca3 ;
+}
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #395ca3 ;
+}
+
+/* Service CSS */
+.section-heading span{
+    color: #395ca3 ;
+}
+.service-version-one .service-title a:hover, .service-version-one .service-title a:active, .service-version-one .service-title a:focus {
+    color: #395ca3 ;
+}
+
+/* Cal Action CSS */
+.call-to-action .background-overlay{
+    background: #395ca3 ;
+}
+.call-to-action .call-btn-1:hover {
+    color: #395ca3 ;
+}
+
+/* Service Section CSS */
+.service-version-one .service-icon-box i:hover {
+    background: #395ca3 ;
+}
+.specia-icon-effect-1 .specia-icon:after {
+	box-shadow: 0 0 0 4px #395ca3 ;
+}
+.specia-icon-effect-5 .specia-icon:hover {
+	box-shadow: 0 0 0 4px #395ca3 ;
+}
+.specia-icon-effect-6 .specia-icon:hover {
+	box-shadow: 0 0 0 4px #395ca3 ;
+}
+.specia-icon-effect-8 .specia-icon:hover {
+	background: #395ca3 ;
+}
+/* Features Section CSS */
+.features-version-one h2 span{
+    color: #395ca3 ;
+}
+.features-version-one .feature-box-info h4{
+    color: #395ca3 ;
+}
+
+/* Latest Blog Section CSS */
+.blog-version-1 article:hover footer.entry-footer{
+     background: #395ca3 ;
+}
+.entry-content .more-link:hover {
+    background: #395ca3 ;
+	border: solid 2px #395ca3 ;
+}
+
+/* Footer Section CSS */
+.footer-sidebar .widget .title-border { 
+    border-bottom: 2px solid #395ca3 ;
+}
+.widget table #next a, .widget table #prev a { 
+	color: #395ca3 ; font-weight: 600; 
+}
+.footer-sidebar  .widget ul li a:hover, .widget ul li a:active { 
+    color: #395ca3 ; 
+}
+.footer-sidebar .widget input[type="submit"]:hover{
+    background: #395ca3 ;
+    border-color: #395ca3 ;
+}
+.footer-sidebar .tagcloud a:hover, .tagcloud a:focus {  
+    border: 1px solid #395ca3 ;
+    background: #395ca3 ;
+}  
+
+/* Copyright Content */
+.payment-icon li a:hover{
+    color: #395ca3 ;
+}
+.footer-copyright p a:hover{
+    color: #395ca3 ;
+}
+.top-scroll {
+    border-color: #395ca3 ;
+    color: #395ca3 ;
+}
+
+/* Pagination CSS */
+.paginations a:hover, .paginations a:focus, .paginations a.active, span.page-numbers.current {
+    border: 1px solid #395ca3 ;
+    background-color: #395ca3 ;
+}
+
+/* Blog Page CSS */
+.page-wrapper article:hover footer.entry-footer {
+     background: #395ca3 ;
+}
+.comment-reply-title {
+    border-top: 4px solid #395ca3 ;
+}
+.required {
+    color: #395ca3 ;
+}
+a.comment-reply-link {
+    color: #395ca3 ;
+}
+
+/* Error Page CSS */
+.error-page h1{
+    color: #395ca3 ;
+}
+
+/* Form Element CSS */
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+    background: #395ca3 ;
+    border: solid 2px #395ca3 ;
+}
+
+/* Breadcrumb CSS */
+.page-breadcrumb a{
+    color: #395ca3 ;
+}
+
+/*Sidebar Area CSS */
+.sidebar .widget .widget-title {
+    color: #242526;
+}
+.sidebar .widget input[type="submit"] {
+    color: #242526;
+    border: solid 2px #242526;
+}
+.sidebar .widget table caption { 
+    background: #242526;
+}
+/* Typography */
+blockquote { 
+    border-left: 5px solid #395ca3  !important;
+}
+table th {     
+    border: 1px solid #395ca3 ;
+    background: #395ca3 ;
+}
+em, cite, q { 
+	color: #395ca3 ;
+}
+s, strike, del { 
+	color: #395ca3 ; 
+}
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+    color: #395ca3 ;
+}
+body a {
+    color: #395ca3 ;
+}
+body a:focus, body a:hover {
+    color: #395ca3 ;
+}
+
+/* Form */
+button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus,
+button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+    background: #395ca3 ;
+    border: solid 2px #395ca3 ;
+}
+
+/* WooCommerce */
+.woocommerce a.button:hover, 
+.woocommerce button.button.alt:hover, 
+.woocommerce #respond input#submit:hover,
+.woocommerce input.button.alt:hover,
+.woocommerce button.button.alt.disabled:hover,
+.woocommerce-cart table.cart input.button:hover,
+.woocommerce input.button:hover,
+.woocommerce button.button:hover {
+	background: #395ca3 ;
+    border: solid 2px #395ca3 ;
+}
+.woocommerce nav.woocommerce-pagination ul li span.current {
+	background: #395ca3 ;
+	border: solid 1px #395ca3 ;
+}
+.woocommerce nav.woocommerce-pagination a.page-numbers:hover {
+	background: #395ca3 ;
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover {
+	background: #395ca3 ;
+    border: solid 2px #395ca3 ;
+}
+.woocommerce p.stars a {
+	color: #395ca3 ;
+}
+.woo-sidebar .widget .title-border { 
+    border-bottom: 2px solid #395ca3 ;
+}
+.woocommerce a.remove:hover {
+	background: #395ca3 ;
+}
+.price_slider_wrapper .ui-slider .ui-slider-handle {
+    border: 5px solid #395ca3 ;
+}
+.price_slider_wrapper .ui-slider .ui-slider-range {
+  background: #395ca3 ;
+}
+.woocommerce-MyAccount-navigation ul li.is-active {
+	background: #395ca3 ;
+}
+.page-wrapper .posts-navigation a:hover {
+    background: #395ca3 ;
+	border: 2px solid #395ca3 ;
+}
+
+.nav-webstrap .navbar-nav > .active > a, .nav-webstrap .navbar-nav > .active > a:hover {
+    border-top: solid 3px #395ca3 !important;
+}
+
+a.webstrap-button, a.webstrap-button:hover, .navbar-default .navbar-nav > li > a.webstrap-button:hover {
+    background: #395ca3 !important;
+}
+
+.header_webstrap_dark .info_details .icon i, .header_webstrap_light .info_details .icon i  {
+    color: #395ca3;
+}
+
+.nav-webstrap .navbar-nav > .active > a, .nav-webstrap .navbar-nav > .active > a:hover {
+    border-top: solid 3px #395ca3 !important;
+}
+
+a.webstrap-button, a.webstrap-button:hover, .navbar-default .navbar-nav > li > a.webstrap-button:hover {
+    background: #395ca3 !important;
+}
+
+.webstrap-cart a.cart-icon span {
+    background: #395ca3;
+}
+.bg-sticky {
+    background: #395ca3;
+}
+/* --------------------------------------
+=========================================
+    Secondary Color
+=========================================
+-----------------------------------------*/
+
+/* Menu CSS */
+/* Slider CSS */
+.owl-theme .owl-controls .owl-nav [class*=owl-] {
+    background: #202c3b;
+}
+/* Service CSS */
+.section-heading{
+    color: #242526;
+}
+.specia-icon-effect-1 .specia-icon {
+	background: #242526;
+}
+.specia-icon-effect-2 .specia-icon:after {
+	background: #242526;
+}
+.specia-icon-effect-3 .specia-icon:after {
+	background: #242526;
+}
+.specia-icon-effect-4 .specia-icon {
+	background: #242526;
+	box-shadow: 0 0 0 4px #242526;
+}
+.specia-icon-effect-5 .specia-icon {
+	box-shadow: 0 0 0 4px #242526;
+	background: #242526;
+}
+.specia-icon-effect-6 .specia-icon {
+	background: #242526;
+	box-shadow: 0 0 0 4px #242526;
+}
+.specia-icon-effect-8 .specia-icon {
+	background: #242526;
+}
+
+/* Latest Blog Section CSS */
+.blog-version-1 footer.entry-footer {
+    background: #242526;
+}
+.entry-content .more-link {
+    color: #242526;
+    border: solid 2px #242526;
+}
+
+/* Footer Section CSS */
+.footer-sidebar .widget table caption, .woo-sidebar .widget table caption  { 
+    background: #242526;
+}
+.footer-sidebar .background-overlay {
+	background: #242526;
+}
+.footer-copyright, .footer-copyright p, .footer-copyright p a {
+    background: #242526;
+}
+/* Blog Page CSS */
+footer.entry-footer {
+    background: #242526;
+}   
+h2.entry-title a {
+    color: #242526;
+}
+.entry-header h2.entry-title {
+    color: #242526;
+}
+
+/* Error Page CSS */
+.error-page h2{
+    color: #242526;
+}
+
+/* Form Element CSS */
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+    color: #242526;
+    border: solid 2px #242526;
+}
+
+/*Sidebar Area CSS */
+.sidebar .widget ul li a:hover, .widget ul li a:active { 
+    color: #395ca3 ; 
+}
+.sidebar .widget table tbody a {
+    color: #395ca3 ;
+}
+.sidebar .widget input[type="submit"]:hover{
+    background: #395ca3 ;
+    border-color: #395ca3 ;
+}
+.sidebar .tagcloud a:hover, .tagcloud a:focus {  
+    border: 1px solid #395ca3 ;
+    background: #395ca3 ;
+} 
+.sidebar .widget .title-border { 
+    border-bottom: 2px solid #395ca3 ;
+}
+
+/* Typography */
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+	color: #242526;
+}
+blockquote cite, blockquote small { 
+	color: #242526;
+}
+address { 
+	color: #242526;
+}
+ins { 
+	color: #242526;
+}
+/* WooCommerce */
+.woocommerce a.button, 
+.woocommerce button.button.alt, 
+.woocommerce #respond input#submit,
+.woocommerce input.button.alt, 
+.woocommerce input.button:disabled, .woocommerce input.button:disabled[disabled],
+.woocommerce-cart table.cart input.button,
+.woocommerce input.button,
+.woocommerce button.button {
+	color: #242526;
+    border: solid 2px #242526;
+}
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button {
+    border: solid 2px #242526;
+	color: #242526;
+}
+.price_slider_wrapper .ui-slider-horizontal {
+  background: #242526;
+}
+.woocommerce-MyAccount-navigation ul li {
+	background: #242526;
+}
+.woocommerce-checkout #payment div.payment_box {
+	background-color: #242526;
+}
+#add_payment_method #payment div.payment_box:before, .woocommerce-cart #payment div.payment_box:before, .woocommerce-checkout #payment div.payment_box:before {
+	border: 1em solid #242526;
+}	
+.page-wrapper .posts-navigation a {
+    color: #242526;
+    border: solid 2px #242526;
+}

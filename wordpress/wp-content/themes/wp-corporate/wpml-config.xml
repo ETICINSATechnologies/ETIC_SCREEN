@@ -1,0 +1,47 @@
+<wpml-config>
+    <admin-texts>
+        <key name="theme_mods_wp-corporate">
+            <key name="wp_corporate_header_setting_slider_category" />
+            <key name="wp_corporate_header_setting_slider_readmore_link" />
+            <key name="wp_corporate_header_setting_slider_readmore_text" />
+            <key name="wp_corporate_header_setting_search_placeholder" />
+            <key name="wp_corporate_header_setting_search_text" />
+            <key name="wp_corporate_header_setting_callto_text" />
+            <key name="wp_corporate_header_setting_social_text" />
+            <key name="wp_corporate_footer_setting_social_text" />
+            <key name="wp_corporate_basic_setting_footer_copyright" />
+            <key name="wp_corporate_homepage_setting_featured_page" />
+            <key name="wp_corporate_homepage_setting_featured_post" />
+            <key name="wp_corporate_homepage_setting_counter_title" />
+            <key name="wp_corporate_homepage_setting_counter_subtitle" />
+            <key name="wp_corporate_homepage_setting_counter_desc" />
+            <key name="wp_corporate_homepage_setting_counter_one_text" />
+            <key name="wp_corporate_homepage_setting_counter_two_text" />
+            <key name="wp_corporate_homepage_setting_counter_three_text" />
+            <key name="wp_corporate_homepage_setting_counter_four_text" />
+            <key name="wp_corporate_homepage_setting_counter_five_text" />
+            <key name="wp_corporate_homepage_setting_counter_six_text" />
+            <key name="wp_corporate_homepage_setting_skill_title" />
+            <key name="wp_corporate_homepage_setting_skill_subtitle" />
+            <key name="wp_corporate_homepage_setting_skill_desc" />
+            <key name="wp_corporate_homepage_setting_skill_one_text" />
+            <key name="wp_corporate_homepage_setting_skill_two_text" />
+            <key name="wp_corporate_homepage_setting_skill_three_text" />
+            <key name="wp_corporate_homepage_setting_testimonial_title" />
+            <key name="wp_corporate_homepage_setting_testimonial_subtitle" />
+            <key name="wp_corporate_homepage_setting_testimonial_desc" />
+            <key name="wp_corporate_homepage_setting_client_title" />
+            <key name="wp_corporate_homepage_setting_client_desc" />
+            <key name="wp_corporate_homepage_setting_client_button" />
+            <key name="wp_corporate_homepage_setting_client_button_link" />
+            <key name="wp_corporate_homepage_setting_blog_title" />
+            <key name="wp_corporate_homepage_setting_blog_subtitle" />
+            <key name="wp_corporate_homepage_setting_blog_desc" />
+            <key name="wp_corporate_homepage_setting_blog_category" />
+            <key name="wp_corporate_homepage_setting_cta_title" />
+            <key name="wp_corporate_homepage_setting_cta_desc" />
+            <key name="wp_corporate_homepage_setting_cta_button" />
+            <key name="wp_corporate_homepage_setting_cta_button_link" />
+        </key>
+    </admin-texts>
+</wpml-config>

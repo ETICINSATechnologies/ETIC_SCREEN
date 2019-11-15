@@ -1,0 +1,18 @@
+li#customize-control-theme_color label {
+	margin-left: 2px;
+    margin-right: 8px;
+}
+
+
+#customize-control-checkbox label, .customize-control-radio label {
+    display: inline-block;
+    line-height: 20px;
+    margin-left: 28px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+
+#customize-control-theme_color input[type="radio"]{
+	display:none !important;
+}
